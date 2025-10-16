@@ -43,4 +43,19 @@ out/
 
 ### CLAUDE CODE ###
 CLAUDE.md
-.claude/
+
+### Next.js (toy-client) ###
+toy-client/node_modules/
+toy-client/.next/
+toy-client/out/
+toy-client/build/
+toy-client/.env*.local
+toy-client/.env
+toy-client/.DS_Store
+toy-client/*.tsbuildinfo
+toy-client/next-env.d.ts
+toy-client/npm-debug.log*
+toy-client/yarn-debug.log*
+toy-client/yarn-error.log*
+toy-client/.vercel
+toy-client/coverage/
